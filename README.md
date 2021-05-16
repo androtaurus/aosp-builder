@@ -39,3 +39,4 @@ Your build log must not be yellow marked as "Failed to decrypt some environment 
 So, for your convenience, https://github.com/Apon77Lab/aosp-builder did fork this repo and did essential commits and got a successful build, which is almost identical to your situation and has no previous ccache. It's highly recommended that you should observe carefully his commits to know what you actually need to do in scripts. For little support, you can contact me here! https://t.me/Apon77Mido
 
 **Humble request to all not to abuse this system. Happy building!!!**
+edit for sample build XD
